@@ -1,0 +1,97 @@
+{
+  "version": "1.0.5",
+  "secciones": [
+    {
+      "id": "plvz-games",
+      "titulo": "Juegos de PLVZ",
+      "subtitulo": "Los mejores juegos de pvlz",
+      "filtros": {
+        "tags": ["pvz"]
+      },
+      "tipoCarousel": "2x2",
+      "posicion": 1,
+      "activa": true
+    },
+    {
+      "id": "juegos-nuevos",
+      "titulo": "Juegos Nuevos",
+      "subtitulo": "Ultimos juegos agregados",
+      "filtros": {
+        "esNuevo": true
+      },
+      "tipoCarousel": "2x2",
+      "posicion": 2,
+      "activa": true
+    },
+    {
+      "id": "pc-games",
+      "titulo": "Juegos de PC",
+      "subtitulo": "Juegos de PC para android",
+      "filtros": {
+        "tags": ["pc"]
+      },
+      "tipoCarousel": "2x2",
+      "posicion": 3,
+      "activa": true
+    },
+    {
+      "id": "pspe-games",
+      "titulo": "Juegos de PSPE",
+      "subtitulo": "Algunos requieren configuración especial",
+      "filtros": {
+        "tags": ["PSP"]
+      },
+      "tipoCarousel": "2x2",
+      "posicion": 4,
+      "activa": true
+    },
+    {
+      "id": "psx2-games",
+      "titulo": "Juegos de PSX2",
+      "subtitulo": "Todos requieren configuración especial",
+      "filtros": {
+        "tags": ["ps2"]
+      },
+      "tipoCarousel": "1x1",
+      "posicion": 5,
+      "activa": true
+    },
+    {
+      "id": "juegos-eliminados",
+      "titulo": "Juegos Eliminados",
+      "subtitulo": "Juegos olvidados & perdidos",
+      "filtros": {
+        "categoria": "",
+        "tags": [
+          "juegos eliminados"
+        ]
+      },
+      "tipoCarousel": "2x2",
+      "posicion": 6,
+      "activa": true
+    },
+    {
+      "id": "ultra-games",
+      "titulo": "Juegos Ultra",
+      "subtitulo": "Juegos creados desde cero",
+      "filtros": {
+        "categoria": "online",
+        "tags": ["ultra"]
+      },
+      "tipoCarousel": "1x1",
+      "posicion": 7,
+      "activa": true
+    },
+    {
+      "id": "online-games",
+      "titulo": "Juegos Online",
+      "subtitulo": "Juega directamente con conexión a internet",
+      "filtros": {
+        "tags": ["online"]
+      },
+      "tipoCarousel": "2x2",
+      "posicion": 8,
+      "activa": true
+    }
+  ]
+}
