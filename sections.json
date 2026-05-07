@@ -2,7 +2,7 @@
   "secciones": [
     {
       "id": "plvz-games",
-      "titulo": "Juegos de PLVZ",
+      "titulo": "🎮 Juegos de PLVZ",
       "subtitulo": "Los mejores juegos de pvlz",
       "filtros": {
         "tags": ["pvz"]
@@ -13,7 +13,7 @@
     },
     {
       "id": "juegos-nuevos",
-      "titulo": "Juegos Nuevos",
+      "titulo": "🔥 Juegos Nuevos",
       "subtitulo": "Ultimos juegos agregados",
       "filtros": {
         "esNuevo": true
@@ -24,7 +24,7 @@
     },
     {
       "id": "pc-games",
-      "titulo": "Juegos de PC",
+      "titulo": "🎮 Juegos de PC",
       "subtitulo": "Juegos de PC para android",
       "filtros": {
         "tags": ["pc"]
@@ -35,7 +35,7 @@
     },
     {
       "id": "pspe-games",
-      "titulo": "Juegos de PSPE",
+      "titulo": "🎮 Juegos de PSPE",
       "subtitulo": "Algunos requieren configuración especial",
       "filtros": {
         "tags": ["PSP"]
@@ -46,7 +46,7 @@
     },
     {
       "id": "psx2-games",
-      "titulo": "Juegos de PSX2",
+      "titulo": "🎮 Juegos de PSX2",
       "subtitulo": "Todos requieren configuración especial",
       "filtros": {
         "tags": ["ps2"]
@@ -57,7 +57,7 @@
     },
     {
       "id": "juegos-eliminados",
-      "titulo": "Juegos Eliminados",
+      "titulo": "🎮 Juegos Eliminados",
       "subtitulo": "Juegos olvidados & perdidos",
       "filtros": {
         "categoria": "",
@@ -71,7 +71,7 @@
     },
     {
       "id": "ultra-games",
-      "titulo": "Juegos Ultra",
+      "titulo": "🎮 Juegos Ultra",
       "subtitulo": "Juegos creados desde cero",
       "filtros": {
         "categoria": "online",
@@ -83,7 +83,7 @@
     },
     {
       "id": "online-games",
-      "titulo": "Juegos Online",
+      "titulo": "🎮 Juegos Online",
       "subtitulo": "Juega directamente con conexión a internet",
       "filtros": {
         "tags": ["online"]
