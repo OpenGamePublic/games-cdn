@@ -5,7 +5,9 @@
       "titulo": "🎮 Juegos de PLVZ",
       "subtitulo": "Los mejores juegos de pvlz",
       "filtros": {
-        "tags": ["pvz"]
+        "tags": [
+          "pvz"
+        ]
       },
       "tipoCarousel": "2x2",
       "posicion": 1,
@@ -27,7 +29,9 @@
       "titulo": "🎮 Juegos de PC",
       "subtitulo": "Juegos de PC para android",
       "filtros": {
-        "tags": ["pc"]
+        "tags": [
+          "pc"
+        ]
       },
       "tipoCarousel": "2x2",
       "posicion": 3,
@@ -38,7 +42,9 @@
       "titulo": "🎮 Juegos de PSPE",
       "subtitulo": "Algunos requieren configuración especial",
       "filtros": {
-        "tags": ["PSP"]
+        "tags": [
+          "PSP"
+        ]
       },
       "tipoCarousel": "2x2",
       "posicion": 4,
@@ -49,7 +55,9 @@
       "titulo": "🎮 Juegos de PSX2",
       "subtitulo": "Todos requieren configuración especial",
       "filtros": {
-        "tags": ["ps2"]
+        "tags": [
+          "ps2"
+        ]
       },
       "tipoCarousel": "1x1",
       "posicion": 5,
@@ -75,7 +83,9 @@
       "subtitulo": "Juegos creados desde cero",
       "filtros": {
         "categoria": "online",
-        "tags": ["ultra"]
+        "tags": [
+          "ultra"
+        ]
       },
       "tipoCarousel": "1x1",
       "posicion": 7,
@@ -86,7 +96,9 @@
       "titulo": "🎮 Juegos Online",
       "subtitulo": "Juega directamente con conexión a internet",
       "filtros": {
-        "tags": ["online"]
+        "tags": [
+          "online"
+        ]
       },
       "tipoCarousel": "2x2",
       "posicion": 8,
