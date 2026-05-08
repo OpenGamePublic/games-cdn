@@ -1,38 +1,5 @@
 [
   {
-    "id": "halow-night-copia",
-    "nombre": "HALOW NIGHT COPIA",
-    "categoria": "juego",
-    "descripcion": "Explora un vasto reino subterráneo con combate basado en reflejos y precisión. Descubre secretos ocultos mientras enfrentas enemigos desafiantes. Mejora habilidades y equipo para superar jefes épicos en este desafío.",
-    "imagen": "https://i.postimg.cc/LXv23Mqd/hqdefaulthh.jpg",
-    "peso": "910MB",
-    "requisitos": {
-      "memoria": "1 GB",
-      "ram": "1 GB",
-      "procesador": "Gama Baja"
-    },
-    "descargas": "1.3M+",
-    "fechaActualizacion": "14/05/2026",
-    "esPopular": true,
-    "esNuevo": true,
-    "esActualizado": false,
-    "urlDescarga": "https://opengamecommunity.blogspot.com/2025/12/halow-night-juego-de-accion-y-aventura.html",
-    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
-    "ConfigRequired": false,
-    "etiquetas": [
-      "hollow knight",
-      "metroidvania",
-      "indie",
-      "knight",
-      "hallownest",
-      "underground",
-      "combat",
-      "exploration",
-      "bug",
-      "kingdom"
-    ]
-  },
-  {
     "id": "halow-night",
     "nombre": "HALOW NIGHT 10",
     "categoria": "juego",
