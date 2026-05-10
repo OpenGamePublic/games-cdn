@@ -1,5 +1,167 @@
 [
   {
+    "id": "drbz-vs-n-beta",
+    "nombre": "DRBZ Vs N (BETA)",
+    "categoria": "",
+    "descripcion": "",
+    "imagen": "https://i.postimg.cc/Dw2XzZnp/db-vz-n.jpg",
+    "peso": "",
+    "requisitos": {
+      "memoria": "",
+      "ram": "",
+      "procesador": ""
+    },
+    "descargas": "",
+    "fechaActualizacion": "",
+    "esPopular": false,
+    "esNuevo": false,
+    "esActualizado": false,
+    "urlDescarga": "",
+    "urlTutorial": "",
+    "ConfigRequired": false,
+    "etiquetas": []
+  },
+  {
+    "id": "hal-laife-2",
+    "nombre": "Hal Laife 2",
+    "categoria": "",
+    "descripcion": "",
+    "imagen": "https://i.postimg.cc/rsgh3K5g/Imagecaphopt.jpg",
+    "peso": "",
+    "requisitos": {
+      "memoria": "",
+      "ram": "",
+      "procesador": ""
+    },
+    "descargas": "",
+    "fechaActualizacion": "",
+    "esPopular": false,
+    "esNuevo": false,
+    "esActualizado": false,
+    "urlDescarga": "",
+    "urlTutorial": "",
+    "ConfigRequired": false,
+    "etiquetas": []
+  },
+  {
+    "id": "kombatt-3",
+    "nombre": "Kombatt 3",
+    "categoria": "",
+    "descripcion": "",
+    "imagen": "https://i.postimg.cc/DwGtR6Q7/hq7ss20-overlay.jpg",
+    "peso": "",
+    "requisitos": {
+      "memoria": "",
+      "ram": "",
+      "procesador": ""
+    },
+    "descargas": "",
+    "fechaActualizacion": "",
+    "esPopular": false,
+    "esNuevo": false,
+    "esActualizado": false,
+    "urlDescarga": "",
+    "urlTutorial": "",
+    "ConfigRequired": false,
+    "etiquetas": []
+  },
+  {
+    "id": "nbea-14",
+    "nombre": "NBEA 14",
+    "categoria": "",
+    "descripcion": "",
+    "imagen": "https://i.postimg.cc/D05CH81B/capnnbopt.jpg",
+    "peso": "",
+    "requisitos": {
+      "memoria": "",
+      "ram": "",
+      "procesador": ""
+    },
+    "descargas": "",
+    "fechaActualizacion": "",
+    "esPopular": false,
+    "esNuevo": false,
+    "esActualizado": false,
+    "urlDescarga": "",
+    "urlTutorial": "",
+    "ConfigRequired": false,
+    "etiquetas": []
+  },
+  {
+    "id": "fighter-3-strike",
+    "nombre": "Fighter 3 Strike",
+    "categoria": "",
+    "descripcion": "",
+    "imagen": "https://i.postimg.cc/zGh947wg/maxresdefaults)-overlay.jpg",
+    "peso": "",
+    "requisitos": {
+      "memoria": "",
+      "ram": "",
+      "procesador": ""
+    },
+    "descargas": "",
+    "fechaActualizacion": "",
+    "esPopular": false,
+    "esNuevo": false,
+    "esActualizado": false,
+    "urlDescarga": "",
+    "urlTutorial": "",
+    "ConfigRequired": false,
+    "etiquetas": []
+  },
+  {
+    "id": "conter-straik-mobile",
+    "nombre": "Conter Straik Mobile",
+    "categoria": "juego",
+    "descripcion": "Participa en enfrentamientos tácticos por equipos donde la precisión y la estrategia son fundamentales. Utiliza diferentes armas, coordina ataques y defiende objetivos en partidas intensas que exigen reflejos rápidos y trabajo en equipo constante.",
+    "imagen": "https://i.postimg.cc/wjTQ8KNV/stkopt.jpg",
+    "peso": "437MB",
+    "requisitos": {
+      "memoria": "1.5 GB",
+      "ram": "2 GB",
+      "procesador": "Gama Media"
+    },
+    "descargas": "1.5M+",
+    "fechaActualizacion": "09/05/2026",
+    "esPopular": false,
+    "esNuevo": true,
+    "esActualizado": false,
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/05/conter-straik-juego-de-disparos-tactico.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2026/05/tutorial-pees-games-un-tutorial-es-una.html",
+    "ConfigRequired": true,
+    "etiquetas": [
+      "counter strike",
+      "conter strike",
+      "counter straik"
+    ]
+  },
+  {
+    "id": "plvz-3-envolved",
+    "nombre": "PLVZ 3 Envolved",
+    "categoria": "juego",
+    "descripcion": "Protege tu jardín en enfrentamientos estratégicos llenos de acción y nuevas mecánicas. Organiza defensas, combina habilidades especiales y enfréntate a oleadas cada vez más intensas mientras adaptas tu estrategia en partidas dinámicas y desafiantes.",
+    "imagen": "https://i.postimg.cc/CK3CXCNY/1hkb4kb2j.jpg",
+    "peso": "217MB",
+    "requisitos": {
+      "memoria": "300 MB",
+      "ram": "1.5 GB",
+      "procesador": "Gama Baja"
+    },
+    "descargas": "720K+",
+    "fechaActualizacion": "09/05/2026",
+    "esPopular": false,
+    "esNuevo": true,
+    "esActualizado": false,
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/05/pevz-3-envolved-juego-de-estrategia-y.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
+    "ConfigRequired": false,
+    "etiquetas": [
+      "pvz 3 evolved",
+      "plants vs zombies 3 evolved",
+      "plantas vs zombies 3 evolved"
+    ]
+  },
+  {
     "id": "halow-night",
     "nombre": "HALOW NIGHT",
     "categoria": "juego",
