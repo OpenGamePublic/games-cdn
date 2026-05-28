@@ -2,24 +2,29 @@
   {
     "id": "drbz-vs-n-beta",
     "nombre": "DRBZ Vs N (BETA)",
-    "categoria": "",
-    "descripcion": "Sin Conexión",
+    "categoria": "juego",
+    "descripcion": "Enfréntate en batallas explosivas entre poderosos personajes inspirados en distintos universos animados. Ejecuta combos rápidos, habilidades devastadoras y transformaciones impresionantes mientras luchas en combates dinámicos llenos de velocidad y energía.",
     "imagen": "https://i.postimg.cc/Dw2XzZnp/db-vz-n.jpg",
-    "peso": "",
+    "peso": "115 MB",
     "requisitos": {
-      "memoria": "",
-      "ram": "",
-      "procesador": ""
+      "memoria": "300 MB",
+      "ram": "1.5 GB",
+      "procesador": "Gama Baja"
     },
-    "descargas": "",
-    "fechaActualizacion": "",
+    "descargas": "1.2M+",
+    "fechaActualizacion": "28/05/2026",
     "esPopular": false,
-    "esNuevo": false,
+    "esNuevo": true,
     "esActualizado": false,
-    "urlDescarga": "",
-    "urlTutorial": "",
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/05/drbz-vs-n-beta-juego-de-lucha-en-fase.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
     "ConfigRequired": false,
-    "etiquetas": []
+    "etiquetas": [
+      "naruto",
+      "dbz",
+      "dragon ball z vs naruto",
+      "dragon ball vs naruto"
+    ]
   },
   {
     "id": "hal-laife-2",
@@ -68,24 +73,29 @@
   {
     "id": "nbea-14",
     "nombre": "NBEA 14",
-    "categoria": "",
-    "descripcion": "Sin Conexión",
+    "categoria": "juego",
+    "descripcion": "Disfruta partidos de baloncesto con ritmo rápido y jugadas espectaculares. Controla a tus jugadores favoritos, realiza tiros precisos, domina estrategias ofensivas y defensivas, y compite en encuentros intensos llenos de acción y realismo deportivo.",
     "imagen": "https://i.postimg.cc/D05CH81B/capnnbopt.jpg",
-    "peso": "",
+    "peso": "783MB",
     "requisitos": {
-      "memoria": "",
-      "ram": "",
-      "procesador": ""
+      "memoria": "1 GB",
+      "ram": "1.5 GB",
+      "procesador": "Gama Baja"
     },
-    "descargas": "",
-    "fechaActualizacion": "",
+    "descargas": "920K+",
+    "fechaActualizacion": "28/05/2026",
     "esPopular": false,
-    "esNuevo": false,
+    "esNuevo": true,
     "esActualizado": false,
-    "urlDescarga": "",
-    "urlTutorial": "",
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/05/nbea-14-juego-de-baloncesto-con.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
     "ConfigRequired": false,
-    "etiquetas": []
+    "etiquetas": [
+      "nba 2k 14",
+      "nba 14",
+      "nba 2014",
+      "nba 2k 2014"
+    ]
   },
   {
     "id": "fighter-3-strike",
