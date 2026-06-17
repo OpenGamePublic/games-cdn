@@ -346,6 +346,31 @@
     ]
   },
   {
+    "id": "novaa-legacy",
+    "nombre": "Novaa Legacy",
+    "categoria": "juego",
+    "descripcion": "Embárcate en una aventura de ciencia ficción repleta de acción futurista. Utiliza armamento avanzado, enfrenta amenazas en diversos escenarios y completa misiones desafiantes mientras descubres los secretos de un conflicto que pone en riesgo a toda la humanidad.",
+    "imagen": "https://i.postimg.cc/kM17Vq3K/NOV.jpg",
+    "peso": "100MB",
+    "requisitos": {
+      "memoria": "1 GB",
+      "ram": "1.5 GB",
+      "procesador": "Gama Baja"
+    },
+    "descargas": "786K+",
+    "fechaActualizacion": "16/06/2026",
+    "esPopular": false,
+    "esNuevo": true,
+    "esActualizado": false,
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2025/12/noova-legacy-shooter-en-primera-persona.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
+    "ConfigRequired": false,
+    "etiquetas": [
+      "nova legacy",
+      "nova legaci"
+    ]
+  },
+  {
     "id": "koof-2002",
     "nombre": "KOOF 2002 MPlus",
     "categoria": "juego",
@@ -833,7 +858,7 @@
     "categoria": "juego",
     "descripcion": "Entra al ring y vive combates de boxeo intensos basados en reflejos y estrategia. Lanza combinaciones precisas, esquiva golpes en el momento justo y administra tu resistencia mientras enfrentas oponentes cada vez más técnicos y desafiantes.",
     "imagen": "https://i.postimg.cc/Qdf8yNQq/IMG-20250123-162226-min.jpg",
-    "peso": "503GB",
+    "peso": "503MB",
     "requisitos": {
       "memoria": "1 GB",
       "ram": "1.5 GB",
