@@ -1,5 +1,31 @@
 [
   {
+    "id": "leef-4-dead-2",
+    "nombre": "LEEF 4 DEAD 2 (BETA 2.1)",
+    "categoria": "juego",
+    "descripcion": "Sobrevive junto a tus compañeros en escenarios infestados de criaturas hostiles. Explora diferentes rutas, reúne recursos, utiliza diversas armas y coopera para superar oleadas de enemigos en una intensa lucha por llegar a un lugar seguro.",
+    "imagen": "https://i.postimg.cc/254R3FpL/04bfjw-Ud-Ipg1-00-02-14.jpg",
+    "peso": "200MB",
+    "requisitos": {
+      "memoria": "1 GB",
+      "ram": "2 GB",
+      "procesador": "Gama Baja"
+    },
+    "descargas": "1.1M+",
+    "fechaActualizacion": "17/06/2026",
+    "esPopular": false,
+    "esNuevo": true,
+    "esActualizado": false,
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/06/left-4d2-beta-2.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
+    "ConfigRequired": false,
+    "etiquetas": [
+      "left 4 dead 2 beta",
+      "lefft 4 dead 2 beta",
+      "left 4 deead 2 beta"
+    ]
+  },
+  {
     "id": "drbz-vs-n-beta",
     "nombre": "DRBZ Vs N (BETA)",
     "categoria": "juego",
@@ -143,6 +169,31 @@
       "counter strike",
       "conter strike",
       "counter straik"
+    ]
+  },
+  {
+    "id": "novaa-legacy",
+    "nombre": "Novaa Legacy",
+    "categoria": "juego",
+    "descripcion": "Embárcate en una aventura de ciencia ficción repleta de acción futurista. Utiliza armamento avanzado, enfrenta amenazas en diversos escenarios y completa misiones desafiantes mientras descubres los secretos de un conflicto que pone en riesgo a toda la humanidad.",
+    "imagen": "https://i.postimg.cc/kM17Vq3K/NOV.jpg",
+    "peso": "100MB",
+    "requisitos": {
+      "memoria": "1 GB",
+      "ram": "1.5 GB",
+      "procesador": "Gama Baja"
+    },
+    "descargas": "786K+",
+    "fechaActualizacion": "16/06/2026",
+    "esPopular": false,
+    "esNuevo": true,
+    "esActualizado": false,
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2025/12/noova-legacy-shooter-en-primera-persona.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
+    "ConfigRequired": false,
+    "etiquetas": [
+      "nova legacy",
+      "nova legaci"
     ]
   },
   {
@@ -343,31 +394,6 @@
       "plants vs zombies hybrid",
       "plantas vs zombies hybrid",
       "online"
-    ]
-  },
-  {
-    "id": "novaa-legacy",
-    "nombre": "Novaa Legacy",
-    "categoria": "juego",
-    "descripcion": "Embárcate en una aventura de ciencia ficción repleta de acción futurista. Utiliza armamento avanzado, enfrenta amenazas en diversos escenarios y completa misiones desafiantes mientras descubres los secretos de un conflicto que pone en riesgo a toda la humanidad.",
-    "imagen": "https://i.postimg.cc/kM17Vq3K/NOV.jpg",
-    "peso": "100MB",
-    "requisitos": {
-      "memoria": "1 GB",
-      "ram": "1.5 GB",
-      "procesador": "Gama Baja"
-    },
-    "descargas": "786K+",
-    "fechaActualizacion": "16/06/2026",
-    "esPopular": false,
-    "esNuevo": true,
-    "esActualizado": false,
-    "urlDescarga": "https://opengamecommunity.blogspot.com/2025/12/noova-legacy-shooter-en-primera-persona.html",
-    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
-    "ConfigRequired": false,
-    "etiquetas": [
-      "nova legacy",
-      "nova legaci"
     ]
   },
   {
