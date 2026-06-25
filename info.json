@@ -1,5 +1,30 @@
 [
   {
+    "id": "over-hadge",
+    "nombre": "Over Hadge",
+    "categoria": "juego",
+    "descripcion": "Acompaña a un grupo de animales en una divertida aventura llena de exploración y desafíos. Recorre escenarios coloridos, supera obstáculos, recoge objetos y completa misiones entretenidas mientras descubres nuevos caminos y secretos ocultos.",
+    "imagen": "https://i.postimg.cc/c4Sk997T/capohbthe.jpg",
+    "peso": "1.48GB",
+    "requisitos": {
+      "memoria": "1.8 GB",
+      "ram": "2 GB",
+      "procesador": "Gama Baja"
+    },
+    "descargas": "1.2M+",
+    "fechaActualizacion": "25/06/2026",
+    "esPopular": false,
+    "esNuevo": true,
+    "esActualizado": false,
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/06/over-hadge-juego-de-aventura-y-accion.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2026/01/tutorial-games-psx2-un-tutorial-es-una.html",
+    "ConfigRequired": true,
+    "etiquetas": [
+      "over the hedge",
+      "over hedge"
+    ]
+  },
+  {
     "id": "leef-4-dead-2",
     "nombre": "LEEF 4 DEAD 2 (BETA 2.1)",
     "categoria": "juego",
