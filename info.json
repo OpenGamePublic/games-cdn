@@ -996,6 +996,39 @@
     ]
   },
   {
+    "id": "plvz-hybrid",
+    "nombre": "PLVZ HYBRID 23.1",
+    "categoria": "juego",
+    "descripcion": "Estrategia de defensa con especies híbridas que combinan habilidades múltiples contra invasores. Fusiona unidades para crear defensas poderosas. Gestiona recursos solares mientras planeas estrategias tácticas en niveles desafiantes.",
+    "imagen": "https://i.postimg.cc/8CBJmJLb/pzhyb.jpg",
+    "peso": "501MB",
+    "requisitos": {
+      "memoria": "650 MB",
+      "ram": "1.5 GB",
+      "procesador": "Gama Baja"
+    },
+    "descargas": "1.4M+",
+    "fechaActualizacion": "14/06/2025",
+    "esPopular": false,
+    "esNuevo": false,
+    "esActualizado": true,
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/01/plvz-hybrid-juego-de-defensa.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
+    "ConfigRequired": false,
+    "etiquetas": [
+      "plants vs zombies",
+      "hybrid",
+      "tower defense",
+      "defensa",
+      "jardín",
+      "estrategia",
+      "pvz",
+      "plantas",
+      "zombies",
+      "hybrid"
+    ]
+  },
+  {
     "id": "bodokai-tenkaichi-3",
     "nombre": "Bodokai Tenkaichi 3",
     "categoria": "juego",
@@ -1152,39 +1185,6 @@
     "etiquetas": [
       "madagascar 2 psx2",
       "ps2"
-    ]
-  },
-  {
-    "id": "plvz-hybrid",
-    "nombre": "PLVZ HYBRID",
-    "categoria": "juego",
-    "descripcion": "Estrategia de defensa con especies híbridas que combinan habilidades múltiples contra invasores. Fusiona unidades para crear defensas poderosas. Gestiona recursos solares mientras planeas estrategias tácticas en niveles desafiantes.",
-    "imagen": "https://i.postimg.cc/qRzyzmKj/IMG-20241010-152649-min.jpg",
-    "peso": "334MB",
-    "requisitos": {
-      "memoria": "450 MB",
-      "ram": "1.5 GB",
-      "procesador": "Gama Baja"
-    },
-    "descargas": "1.4M+",
-    "fechaActualizacion": "14/06/2025",
-    "esPopular": false,
-    "esNuevo": false,
-    "esActualizado": false,
-    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/01/plvz-hybrid-juego-de-defensa.html",
-    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
-    "ConfigRequired": false,
-    "etiquetas": [
-      "plants vs zombies",
-      "hybrid",
-      "tower defense",
-      "defensa",
-      "jardín",
-      "estrategia",
-      "pvz",
-      "plantas",
-      "zombies",
-      "hybrid"
     ]
   },
   {
