@@ -1,5 +1,31 @@
 [
   {
+    "id": "proyect-zomboi",
+    "nombre": "Proyect Zomboi 1.4",
+    "categoria": "juego",
+    "descripcion": "Sobrevive en un mundo abierto dominado por criaturas hostiles donde cada decisión cuenta. Explora edificios, reúne recursos, fabrica herramientas y administra tus necesidades mientras enfrentas peligros constantes en una experiencia desafiante y realista.",
+    "imagen": "https://i.postimg.cc/Cx0W2PGz/przm.jpg",
+    "peso": "2.65GB",
+    "requisitos": {
+      "memoria": "4 GB",
+      "ram": "4 GB",
+      "procesador": "Gama Media"
+    },
+    "descargas": "1.4M+",
+    "fechaActualizacion": "10/07/2026",
+    "esPopular": false,
+    "esNuevo": true,
+    "esActualizado": false,
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/07/proyect-zomboi-juego-de-supervivencia.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
+    "ConfigRequired": false,
+    "etiquetas": [
+      "proyect zomboid",
+      "project zomboid",
+      "pc"
+    ]
+  },
+  {
     "id": "plvz-warfar",
     "nombre": "PLVZ WARFAR 3.0",
     "categoria": "juego",
@@ -29,7 +55,8 @@
       "pvz",
       "plantas",
       "zombies",
-      "hybrid"
+      "hybrid",
+      "pc"
     ]
   },
   {
@@ -80,7 +107,8 @@
     "etiquetas": [
       "left 4 dead 2 beta",
       "lefft 4 dead 2 beta",
-      "left 4 deead 2 beta"
+      "left 4 deead 2 beta",
+      "pc"
     ]
   },
   {
@@ -226,7 +254,8 @@
     "etiquetas": [
       "counter strike",
       "conter strike",
-      "counter straik"
+      "counter straik",
+      "pc"
     ]
   },
   {
@@ -244,7 +273,7 @@
     "descargas": "786K+",
     "fechaActualizacion": "16/06/2026",
     "esPopular": false,
-    "esNuevo": true,
+    "esNuevo": false,
     "esActualizado": false,
     "urlDescarga": "https://opengamecommunity.blogspot.com/2025/12/noova-legacy-shooter-en-primera-persona.html",
     "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
@@ -269,7 +298,7 @@
     "descargas": "720K+",
     "fechaActualizacion": "09/05/2026",
     "esPopular": false,
-    "esNuevo": true,
+    "esNuevo": false,
     "esActualizado": false,
     "urlDescarga": "https://opengamecommunity.blogspot.com/2026/05/pevz-3-envolved-juego-de-estrategia-y.html",
     "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
@@ -628,7 +657,8 @@
     "ConfigRequired": false,
     "etiquetas": [
       "repo mobile",
-      "r.e.p.o mobile"
+      "r.e.p.o mobile",
+      "pc"
     ]
   },
   {
