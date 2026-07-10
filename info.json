@@ -1,5 +1,38 @@
 [
   {
+    "id": "plvz-warfar",
+    "nombre": "PLVZ WARFAR 3.0",
+    "categoria": "juego",
+    "descripcion": "Shooter táctico en primera persona con combates militares intensos en escenarios contemporáneos realistas. Domina arsenal moderno variado mientras completas misiones estratégicas. Modo multijugador competitivo con mapas dinámicos y personalización avanzada.",
+    "imagen": "https://i.postimg.cc/vHBbLw6B/pvgwn.jpg",
+    "peso": "404MB",
+    "requisitos": {
+      "memoria": "1 GB",
+      "ram": "1.5 GB",
+      "procesador": "Gama Media"
+    },
+    "descargas": "1.2M+",
+    "fechaActualizacion": "14/06/2025",
+    "esPopular": false,
+    "esNuevo": true,
+    "esActualizado": false,
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/07/plvz-warfar-v3.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
+    "ConfigRequired": false,
+    "etiquetas": [
+      "plants vs zombies",
+      "garden warfare",
+      "tower defense",
+      "defensa",
+      "jardín",
+      "estrategia",
+      "pvz",
+      "plantas",
+      "zombies",
+      "hybrid"
+    ]
+  },
+  {
     "id": "over-hadge",
     "nombre": "Over Hadge",
     "categoria": "juego",
@@ -1188,18 +1221,18 @@
     ]
   },
   {
-    "id": "plvz-warfar",
-    "nombre": "PLVZ WARFAR",
+    "id": "plvz-son-strike",
+    "nombre": "PLVZ Son Strike",
     "categoria": "juego",
-    "descripcion": "Shooter táctico en primera persona con combates militares intensos en escenarios contemporáneos realistas. Domina arsenal moderno variado mientras completas misiones estratégicas. Modo multijugador competitivo con mapas dinámicos y personalización avanzada.",
+    "descripcion": "Shooter táctico en primera persona con combates militares intensos en escenarios contemporáneos realistas. Domina arsenal moderno variado mientras completas misiones estratégicas. Disfruta este juego con mapas dinámicos y personalización avanzada.",
     "imagen": "https://i.postimg.cc/CK4Wms56/pevzedm.jpg",
     "peso": "662MB",
     "requisitos": {
-      "memoria": "1 gB",
+      "memoria": "1 GB",
       "ram": "1.5 GB",
       "procesador": "Gama Media"
     },
-    "descargas": "1.4M+",
+    "descargas": "1.1M+",
     "fechaActualizacion": "14/06/2025",
     "esPopular": false,
     "esNuevo": false,
@@ -1217,7 +1250,9 @@
       "pvz",
       "plantas",
       "zombies",
-      "hybrid"
+      "hybrid",
+      "sun strike",
+      "son strike"
     ]
   },
   {
