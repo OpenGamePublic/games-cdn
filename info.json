@@ -371,21 +371,21 @@
   },
   {
     "id": "halow-night-skilson",
-    "nombre": "HALOW SKILSON",
+    "nombre": "HALOW SKILSON 1.2",
     "categoria": "juego",
     "descripcion": "Versión expandida con contenido adicional y nuevos desafíos de exploración subterránea. Domina combates mejorados mientras descubres áreas secretas y jefes adicionales. Perfecciona tus habilidades en esta aventura.",
     "imagen": "https://i.postimg.cc/76XyJbP4/skil2optimiz.jpg",
-    "peso": "1.85GB",
+    "peso": "1.81GB",
     "requisitos": {
       "memoria": "2 GB",
       "ram": "2 GB",
       "procesador": "Gama Baja"
     },
-    "descargas": "1.1M+",
-    "fechaActualizacion": "14/05/2025",
+    "descargas": "1.2M+",
+    "fechaActualizacion": "11/07/2026",
     "esPopular": true,
     "esNuevo": false,
-    "esActualizado": false,
+    "esActualizado": true,
     "urlDescarga": "https://opengamecommunity.blogspot.com/2025/12/halow-night-skilson-juego-de-accion-y.html",
     "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
     "ConfigRequired": false,
@@ -399,7 +399,9 @@
       "combat",
       "exploration",
       "bug",
-      "kingdom"
+      "kingdom",
+      "hallow knight silksong",
+      "pc"
     ]
   },
   {
