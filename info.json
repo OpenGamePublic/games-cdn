@@ -1,5 +1,31 @@
 [
   {
+    "id": "simpsoon-h-r-sinemu",
+    "nombre": "Simpsoon H&R (SinEmu)",
+    "categoria": "juego",
+    "descripcion": "Explora una ciudad animada llena de misiones caóticas y situaciones divertidas. Conduce por calles abiertas, completa encargos variados y provoca desastres controlados mientras avanzas entre desafíos cada vez más dinámicos y entretenidos.",
+    "imagen": "https://i.postimg.cc/0NQ3z9GJ/SMHTn.jpg",
+    "peso": "800MB",
+    "requisitos": {
+      "memoria": "1.2 GB",
+      "ram": "2 GB",
+      "procesador": "Gama Media"
+    },
+    "descargas": "1.7M+",
+    "fechaActualizacion": "04/09/2026",
+    "esPopular": false,
+    "esNuevo": true,
+    "esActualizado": false,
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/09/simpsoon-hit-ruun-android-port-juego-de.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
+    "ConfigRequired": false,
+    "etiquetas": [
+      "ps2",
+      "The Simpsons Hit & Run psx2",
+      "The Simpsons Hit & Run ps2"
+    ]
+  },
+  {
     "id": "proyect-zomboi",
     "nombre": "Proyect Zomboi 1.4",
     "categoria": "juego",
