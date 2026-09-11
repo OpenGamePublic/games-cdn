@@ -1,5 +1,30 @@
 [
   {
+    "id": "hal-laife-2-mobile",
+    "nombre": "Hal Laife 2",
+    "categoria": "juego",
+    "descripcion": "Enfréntate a una invasión alienígena en un mundo marcado por el conflicto y la supervivencia. Explora ciudades devastadas, utiliza armas variadas, resuelve obstáculos y combate enemigos peligrosos mientras avanzas por una historia llena de acción y tensión.",
+    "imagen": "https://i.postimg.cc/rsgh3K5g/Imagecaphopt.jpg",
+    "peso": "4.8GB",
+    "requisitos": {
+      "memoria": "8.7 GB",
+      "ram": "2.5 GB",
+      "procesador": "Gama Media"
+    },
+    "descargas": "1.2M+",
+    "fechaActualizacion": "09/09/2026",
+    "esPopular": false,
+    "esNuevo": true,
+    "esActualizado": false,
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/09/hal-laife-2-juego-de-accion-y-aventura.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
+    "ConfigRequired": false,
+    "etiquetas": [
+      "half life 2",
+      "hal life 2"
+    ]
+  },
+  {
     "id": "simpsoon-h-r-sinemu",
     "nombre": "Simpsoon H&R (Sin Emulador)",
     "categoria": "juego",
@@ -163,28 +188,6 @@
       "dragon ball z vs naruto",
       "dragon ball vs naruto"
     ]
-  },
-  {
-    "id": "hal-laife-2",
-    "nombre": "Hal Laife 2",
-    "categoria": "",
-    "descripcion": "Sin Conexión",
-    "imagen": "https://i.postimg.cc/rsgh3K5g/Imagecaphopt.jpg",
-    "peso": "",
-    "requisitos": {
-      "memoria": "",
-      "ram": "",
-      "procesador": ""
-    },
-    "descargas": "",
-    "fechaActualizacion": "",
-    "esPopular": false,
-    "esNuevo": false,
-    "esActualizado": false,
-    "urlDescarga": "",
-    "urlTutorial": "",
-    "ConfigRequired": false,
-    "etiquetas": []
   },
   {
     "id": "kombatt-3",
