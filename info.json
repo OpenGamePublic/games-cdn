@@ -1024,13 +1024,13 @@
   },
   {
     "id": "plvz-fusion",
-    "nombre": "PLVZ FUSION 3.9",
+    "nombre": "PLVZ FUSION 4.0",
     "categoria": "juego",
     "descripcion": "Estrategia de defensa con especies híbridas que combinan habilidades múltiples contra invasores. Fusiona unidades para crear defensas poderosas. Gestiona recursos solares mientras planeas estrategias tácticas en niveles desafiantes.",
     "imagen": "https://i.postimg.cc/bJ5ntSrR/IMG-20240928-124120-min.jpg",
-    "peso": "591MB",
+    "peso": "612MB",
     "requisitos": {
-      "memoria": "450 MB",
+      "memoria": "700 MB",
       "ram": "1.5 GB",
       "procesador": "Gama Baja"
     },
