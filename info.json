@@ -1,5 +1,57 @@
 [
   {
+    "id": "blakops-zombis-mobile",
+    "nombre": "BlakOps Zombis Mobile",
+    "categoria": "juego",
+    "descripcion": "Sobrevive a intensas oleadas de criaturas hostiles en escenarios oscuros y peligrosos. Utiliza diferentes armas, administra tus recursos y mejora tu equipo mientras enfrentas enemigos cada vez más numerosos en una lucha constante por permanecer con vida.",
+    "imagen": "https://i.postimg.cc/jSpSC2hz/Cdb.jpg",
+    "peso": "1GB",
+    "requisitos": {
+      "memoria": "2 GB",
+      "ram": "1.5 GB",
+      "procesador": "Gama Media"
+    },
+    "descargas": "1.5M+",
+    "fechaActualizacion": "03/10/2026",
+    "esPopular": false,
+    "esNuevo": true,
+    "esActualizado": false,
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/10/blakops-zombis-mobile-juego-de-accion-y.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
+    "ConfigRequired": false,
+    "etiquetas": [
+      "call of duty black ops zombies",
+      "cod zombies",
+      "call of duty black ops zombis"
+    ]
+  },
+  {
+    "id": "spyder-man-2",
+    "nombre": "Spyder-Man 2",
+    "categoria": "juego",
+    "descripcion": "Recorre una gran ciudad mientras enfrentas amenazas y situaciones inesperadas. Muévete con agilidad entre edificios, combate enemigos, completa misiones variadas y utiliza tus habilidades especiales para proteger a los ciudadanos en una aventura llena de acción.",
+    "imagen": "https://i.postimg.cc/50nJ528K/tmzs.jpg",
+    "peso": "1.5GB",
+    "requisitos": {
+      "memoria": "2 GB",
+      "ram": "2 GB",
+      "procesador": "Gama Media"
+    },
+    "descargas": "1.3M+",
+    "fechaActualizacion": "03/10/2026",
+    "esPopular": false,
+    "esNuevo": true,
+    "esActualizado": false,
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/10/spaider-man-2-juego-de-accion-y.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
+    "ConfigRequired": false,
+    "etiquetas": [
+      "the amazing spider-man 2",
+      "the amazing spider man 2",
+      "the amazing spaiderman 2"
+    ]
+  },
+  {
     "id": "hal-laife-2-mobile",
     "nombre": "Hal Laife 2",
     "categoria": "juego",
