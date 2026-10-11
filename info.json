@@ -1,5 +1,30 @@
 [
   {
+    "id": "heilo-1",
+    "nombre": "HEILO 1",
+    "categoria": "juego",
+    "descripcion": "Enfréntate a una invasión alienígena en escenarios futuristas llenos de acción y peligro. Utiliza armas avanzadas, conduce vehículos de combate y explora instalaciones misteriosas mientras luchas contra enemigos poderosos en una aventura épica de ciencia ficción.",
+    "imagen": "https://i.postimg.cc/j5NJzGGM/ghlcap.jpg",
+    "peso": "1.7GB",
+    "requisitos": {
+      "memoria": "2 GB",
+      "ram": "4 GB",
+      "procesador": "Gama Media"
+    },
+    "descargas": "1.3M+",
+    "fechaActualizacion": "10/10/2026",
+    "esPopular": false,
+    "esNuevo": true,
+    "esActualizado": false,
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/10/hallo-ce-juego-de-accion-y-ciencia.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
+    "ConfigRequired": false,
+    "etiquetas": [
+      "halo campaign evolved",
+      "halo ce"
+    ]
+  },
+  {
     "id": "blakops-zombis-mobile",
     "nombre": "BlakOps Zombis Mobile",
     "categoria": "juego",
