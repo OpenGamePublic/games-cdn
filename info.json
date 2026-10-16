@@ -25,6 +25,31 @@
     ]
   },
   {
+    "id": "tecken-6",
+    "nombre": "TECKEN 6",
+    "categoria": "juego",
+    "descripcion": "Disfruta combates intensos con personajes únicos y habilidades sobrenaturales. Ejecuta combos devastadores, libera ataques especiales y enfréntate a poderosos rivales en batallas dinámicas donde la velocidad, los reflejos y la estrategia son esenciales para alcanzar la victoria.",
+    "imagen": "https://i.postimg.cc/3RbSZyBd/captk.jpg",
+    "peso": "1.2GB",
+    "requisitos": {
+      "memoria": "2 GB",
+      "ram": "2 GB",
+      "procesador": "Gama Baja"
+    },
+    "descargas": "1.4M+",
+    "fechaActualizacion": "15/10/2026",
+    "esPopular": false,
+    "esNuevo": true,
+    "esActualizado": false,
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/10/theken-6-juego-de-lucha-y-accion-con.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
+    "ConfigRequired": false,
+    "etiquetas": [
+      "teken 6",
+      "tekken 6"
+    ]
+  },
+  {
     "id": "blakops-zombis-mobile",
     "nombre": "BlakOps Zombis Mobile",
     "categoria": "juego",
