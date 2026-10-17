@@ -1,5 +1,32 @@
 [
   {
+    "id": "batlefil-2",
+    "nombre": "BATLEFIL 2",
+    "categoria": "juego",
+    "descripcion": "Participa en intensos combates militares en escenarios abiertos llenos de enemigos y vehículos de guerra. Utiliza diferentes armas, colabora con tus compañeros y completa misiones tácticas mientras avanzas por campos de batalla donde la estrategia y la precisión son fundamentales.",
+    "imagen": "https://i.postimg.cc/nc68TXKC/bttftopt.jpg",
+    "peso": "570MB",
+    "requisitos": {
+      "memoria": "1 GB",
+      "ram": "2 GB",
+      "procesador": "Gama Baja"
+    },
+    "descargas": "1.2M+",
+    "fechaActualizacion": "17/10/2026",
+    "esPopular": false,
+    "esNuevo": true,
+    "esActualizado": false,
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/10/batleffild-2-juego-de-accion-belica-en.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
+    "ConfigRequired": false,
+    "etiquetas": [
+      "Battlefield Bad Company 2",
+      "Batlefield Bad Company 2",
+      "Battlefield 2",
+      "Batlefield 2"
+    ]
+  },
+  {
     "id": "heilo-1",
     "nombre": "HEILO 1",
     "categoria": "juego",
@@ -22,31 +49,6 @@
     "etiquetas": [
       "halo campaign evolved",
       "halo ce"
-    ]
-  },
-  {
-    "id": "tecken-6",
-    "nombre": "TECKEN 6",
-    "categoria": "juego",
-    "descripcion": "Disfruta combates intensos con personajes únicos y habilidades sobrenaturales. Ejecuta combos devastadores, libera ataques especiales y enfréntate a poderosos rivales en batallas dinámicas donde la velocidad, los reflejos y la estrategia son esenciales para alcanzar la victoria.",
-    "imagen": "https://i.postimg.cc/3RbSZyBd/captk.jpg",
-    "peso": "1.2GB",
-    "requisitos": {
-      "memoria": "2 GB",
-      "ram": "2 GB",
-      "procesador": "Gama Baja"
-    },
-    "descargas": "1.4M+",
-    "fechaActualizacion": "15/10/2026",
-    "esPopular": false,
-    "esNuevo": true,
-    "esActualizado": false,
-    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/10/theken-6-juego-de-lucha-y-accion-con.html",
-    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
-    "ConfigRequired": false,
-    "etiquetas": [
-      "teken 6",
-      "tekken 6"
     ]
   },
   {
@@ -76,6 +78,31 @@
     ]
   },
   {
+    "id": "hal-laife-2-mobile",
+    "nombre": "Hal Laife 2",
+    "categoria": "juego",
+    "descripcion": "Enfréntate a una invasión alienígena en un mundo marcado por el conflicto y la supervivencia. Explora ciudades devastadas, utiliza armas variadas, resuelve obstáculos y combate enemigos peligrosos mientras avanzas por una historia llena de acción y tensión.",
+    "imagen": "https://i.postimg.cc/rsgh3K5g/Imagecaphopt.jpg",
+    "peso": "4.8GB",
+    "requisitos": {
+      "memoria": "8.7 GB",
+      "ram": "2.5 GB",
+      "procesador": "Gama Media"
+    },
+    "descargas": "1.2M+",
+    "fechaActualizacion": "09/09/2026",
+    "esPopular": false,
+    "esNuevo": true,
+    "esActualizado": false,
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/09/hal-laife-2-juego-de-accion-y-aventura.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
+    "ConfigRequired": false,
+    "etiquetas": [
+      "half life 2",
+      "hal life 2"
+    ]
+  },
+  {
     "id": "spyder-man-2",
     "nombre": "Spyder-Man 2",
     "categoria": "juego",
@@ -99,31 +126,6 @@
       "the amazing spider-man 2",
       "the amazing spider man 2",
       "the amazing spaiderman 2"
-    ]
-  },
-  {
-    "id": "hal-laife-2-mobile",
-    "nombre": "Hal Laife 2",
-    "categoria": "juego",
-    "descripcion": "Enfréntate a una invasión alienígena en un mundo marcado por el conflicto y la supervivencia. Explora ciudades devastadas, utiliza armas variadas, resuelve obstáculos y combate enemigos peligrosos mientras avanzas por una historia llena de acción y tensión.",
-    "imagen": "https://i.postimg.cc/rsgh3K5g/Imagecaphopt.jpg",
-    "peso": "4.8GB",
-    "requisitos": {
-      "memoria": "8.7 GB",
-      "ram": "2.5 GB",
-      "procesador": "Gama Media"
-    },
-    "descargas": "1.2M+",
-    "fechaActualizacion": "09/09/2026",
-    "esPopular": false,
-    "esNuevo": true,
-    "esActualizado": false,
-    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/09/hal-laife-2-juego-de-accion-y-aventura.html",
-    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
-    "ConfigRequired": false,
-    "etiquetas": [
-      "half life 2",
-      "hal life 2"
     ]
   },
   {
@@ -176,6 +178,31 @@
       "proyect zomboid",
       "project zomboid",
       "pc"
+    ]
+  },
+  {
+    "id": "tecken-6",
+    "nombre": "TECKEN 6",
+    "categoria": "juego",
+    "descripcion": "Disfruta combates intensos con personajes únicos y habilidades sobrenaturales. Ejecuta combos devastadores, libera ataques especiales y enfréntate a poderosos rivales en batallas dinámicas donde la velocidad, los reflejos y la estrategia son esenciales para alcanzar la victoria.",
+    "imagen": "https://i.postimg.cc/3RbSZyBd/captk.jpg",
+    "peso": "1.2GB",
+    "requisitos": {
+      "memoria": "2 GB",
+      "ram": "2 GB",
+      "procesador": "Gama Baja"
+    },
+    "descargas": "1.4M+",
+    "fechaActualizacion": "15/10/2026",
+    "esPopular": false,
+    "esNuevo": true,
+    "esActualizado": false,
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/10/theken-6-juego-de-lucha-y-accion-con.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
+    "ConfigRequired": false,
+    "etiquetas": [
+      "teken 6",
+      "tekken 6"
     ]
   },
   {
