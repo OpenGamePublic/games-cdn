@@ -1,5 +1,55 @@
 [
   {
+    "id": "storrm-3",
+    "nombre": "STORRM 3",
+    "categoria": "juego",
+    "descripcion": "Vive intensos combates ninja en escenarios tridimensionales llenos de acción. Ejecuta técnicas especiales, combina ataques rápidos y desata habilidades poderosas mientras enfrentas rivales formidables en batallas espectaculares que ponen a prueba tus reflejos y estrategia.",
+    "imagen": "https://i.postimg.cc/rpcXcLMs/ncap3.jpg",
+    "peso": "6GB",
+    "requisitos": {
+      "memoria": "7 GB",
+      "ram": "4 GB",
+      "procesador": "Gama Media"
+    },
+    "descargas": "1.3M+",
+    "fechaActualizacion": "24/10/2026",
+    "esPopular": false,
+    "esNuevo": true,
+    "esActualizado": false,
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/10/n-storrm-4-n-storrm-4-es-un-juego-de.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2026/10/tutorial-port-android-un-tutorial-es.html",
+    "ConfigRequired": true,
+    "etiquetas": [
+      "naruto storm 3",
+      "naruto ultimate ninja storm 3"
+    ]
+  },
+  {
+    "id": "ff-14-sin-emulador",
+    "nombre": "FF 14 (Sin Emulador)",
+    "categoria": "juego",
+    "descripcion": "Disfruta emocionantes partidos de fútbol con equipos y jugadores de todo el mundo. Realiza pases precisos, ejecuta tiros potentes, domina regates y crea jugadas estratégicas para marcar goles y conquistar la victoria en cada encuentro.",
+    "imagen": "https://i.postimg.cc/xCrThYn5/Captura-de-pantalla-(21900)-min.jpg",
+    "peso": "1.3GB",
+    "requisitos": {
+      "memoria": "2 GB",
+      "ram": "2 GB",
+      "procesador": "Gama Baja"
+    },
+    "descargas": "1.3M+",
+    "fechaActualizacion": "24/10/2026",
+    "esPopular": false,
+    "esNuevo": true,
+    "esActualizado": false,
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/10/fifa-14-juego-de-futbol-que-ofrece.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
+    "ConfigRequired": false,
+    "etiquetas": [
+      "fifa 14",
+      "fyfa 14"
+    ]
+  },
+  {
     "id": "batlefil-2",
     "nombre": "BATLEFIL 2",
     "categoria": "juego",
