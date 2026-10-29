@@ -1,5 +1,30 @@
 [
   {
+    "id": "blakk",
+    "nombre": "BLAKK 1.4",
+    "categoria": "juego",
+    "descripcion": "Participa en operaciones militares llenas de acción, peligro y enfrentamientos intensos. Utiliza armas modernas, completa objetivos estratégicos y combate contra fuerzas enemigas en escenarios variados donde la puntería, los reflejos y la supervivencia son fundamentales.",
+    "imagen": "https://i.postimg.cc/j5fKCw27/blkopt.jpg",
+    "peso": "3GB",
+    "requisitos": {
+      "memoria": "3 GB",
+      "ram": "4 GB",
+      "procesador": "Gama Media"
+    },
+    "descargas": "1.3M+",
+    "fechaActualizacion": "29/10/2026",
+    "esPopular": false,
+    "esNuevo": true,
+    "esActualizado": false,
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/10/blakk-blakk-es-un-juego-de-accion-y.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2026/10/tutorial-port-android-un-tutorial-es.html",
+    "ConfigRequired": true,
+    "etiquetas": [
+      "black",
+      "blak"
+    ]
+  },
+  {
     "id": "storrm-3",
     "nombre": "STORRM 3",
     "categoria": "juego",
@@ -11,7 +36,7 @@
       "ram": "4 GB",
       "procesador": "Gama Media"
     },
-    "descargas": "1.4M+",
+    "descargas": "1.3M+",
     "fechaActualizacion": "24/10/2026",
     "esPopular": false,
     "esNuevo": true,
