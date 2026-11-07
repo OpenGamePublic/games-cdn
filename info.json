@@ -1,5 +1,55 @@
 [
   {
+    "id": "redst-eviil-4",
+    "nombre": "RESDT EVIIL 4",
+    "categoria": "juego",
+    "descripcion": "Survival horror de acción con combate táctico contra enemigos hostiles en ambientes claustrofóbicos. Gestiona munición limitada mientras resuelves puzzles ambientales. Mejora armas y enfrenta jefes aterradores en esta experiencia tensa.",
+    "imagen": "https://i.postimg.cc/wj0y87g3/rest4capopt.jpg",
+    "peso": "2.2GB",
+    "requisitos": {
+      "memoria": "3 GB",
+      "ram": "4 GB",
+      "procesador": "Gama Media"
+    },
+    "descargas": "1.1M+",
+    "fechaActualizacion": "07/11/2026",
+    "esPopular": false,
+    "esNuevo": true,
+    "esActualizado": false,
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/11/resdt-evil-4-experiencia-de-accion-y.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
+    "ConfigRequired": false,
+    "etiquetas": [
+      "pc",
+      "resident evil 4"
+    ]
+  },
+  {
+    "id": "storrm-2",
+    "nombre": "STORRM 2",
+    "categoria": "juego",
+    "descripcion": "Vive una aventura ninja llena de combates espectaculares y desafíos emocionantes. Ejecuta técnicas especiales, combina ataques poderosos y enfréntate a enemigos formidables mientras avanzas por una historia repleta de acción, rivalidades y enfrentamientos inolvidables.",
+    "imagen": "https://i.postimg.cc/pLdtmTMT/n2capopt.jpg",
+    "peso": "3GB",
+    "requisitos": {
+      "memoria": "5 GB",
+      "ram": "4 GB",
+      "procesador": "Gama Media"
+    },
+    "descargas": "1.3M+",
+    "fechaActualizacion": "24/10/2026",
+    "esPopular": false,
+    "esNuevo": true,
+    "esActualizado": false,
+    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/11/n-storrm-2-n-storrm-2-es-un-juego-de.html",
+    "urlTutorial": "https://opengamecommunity.blogspot.com/2026/10/tutorial-port-android-un-tutorial-es.html",
+    "ConfigRequired": true,
+    "etiquetas": [
+      "naruto storm 2",
+      "naruto ultimate ninja storm 2"
+    ]
+  },
+  {
     "id": "blakk",
     "nombre": "BLAKK 1.4",
     "categoria": "juego",
@@ -894,31 +944,6 @@
       "repo mobile",
       "r.e.p.o mobile",
       "pc"
-    ]
-  },
-  {
-    "id": "redst-eviil-4",
-    "nombre": "RESDT EVIIL 4",
-    "categoria": "juego",
-    "descripcion": "Survival horror de acción con combate táctico contra enemigos hostiles en ambientes claustrofóbicos. Gestiona munición limitada mientras resuelves puzzles ambientales. Mejora armas y enfrenta jefes aterradores en esta experiencia tensa.",
-    "imagen": "https://i.postimg.cc/WzJHt88B/IMG-20240410-130048-min.jpg",
-    "peso": "300MB",
-    "requisitos": {
-      "memoria": "1 GB",
-      "ram": "2 GB",
-      "procesador": "Gama Media"
-    },
-    "descargas": "1.1M+",
-    "fechaActualizacion": "14/05/2025",
-    "esPopular": false,
-    "esNuevo": false,
-    "esActualizado": false,
-    "urlDescarga": "https://opengamecommunity.blogspot.com/2026/01/resdt-evil-4-beta-experiencia-de-accion.html",
-    "urlTutorial": "https://opengamecommunity.blogspot.com/2025/12/tutorial-un-tutorial-es-una-guia.html",
-    "ConfigRequired": false,
-    "etiquetas": [
-      "pc",
-      "resident evil 4"
     ]
   },
   {
